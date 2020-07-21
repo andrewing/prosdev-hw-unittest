@@ -29,4 +29,4 @@ D | Did not Meet Expectation | 74.99 and below
 3. After running all the tests and everything passed, take a screenshot of the results and add it as a section in the README.
 
 ## Results
-*TODO: Insert screenshot of the results from the command line*
+![alt text](https://github.com/andrewing/prosdev-hw-unittest/blob/master/testresults.jpg?raw=true)
